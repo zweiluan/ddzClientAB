@@ -2,11 +2,11 @@
  "ForceGameUpdate": false,
  "LatestGameVersion": "1.0",
  "InternalGameVersion": 0,
- "InternalResourceVersion": 46,
+ "InternalResourceVersion": 47,
 "UpdatePrefixUri": "https://raw.githubusercontent.com/zweiluan/ddzClientAB/master/AB/Android",
  "VersionListLength": 1228,
- "VersionListHashCode": -2014761861,
- "VersionListCompressedLength": 628,
- "VersionListCompressedHashCode": -1799249961,
+ "VersionListHashCode": 2055166989,
+ "VersionListCompressedLength": 626,
+ "VersionListCompressedHashCode": -2239042,
  "END_OF_JSON": ""
 }
