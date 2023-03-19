@@ -1,12 +1,12 @@
 {
  "ForceGameUpdate": false,
- "LatestGameVersion": "0.1",
+ "LatestGameVersion": "1.0",
  "InternalGameVersion": 0,
- "InternalResourceVersion": 47,
-"UpdatePrefixUri": "http://192.168.31.222/AB/Android",
- "VersionListLength": 9090,
- "VersionListHashCode": -438716034,
- "VersionListCompressedLength": 3390,
- "VersionListCompressedHashCode": 1704069924,
+ "InternalResourceVersion": 45,
+"UpdatePrefixUri": "http://192.168.31.18/AB/Android",
+ "VersionListLength": 1228,
+ "VersionListHashCode": 276767885,
+ "VersionListCompressedLength": 621,
+ "VersionListCompressedHashCode": -1951220977,
  "END_OF_JSON": ""
 }
