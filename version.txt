@@ -3,7 +3,7 @@
  "LatestGameVersion": "1.0",
  "InternalGameVersion": 0,
  "InternalResourceVersion": 45,
-"UpdatePrefixUri": "http://192.168.31.18/AB/Android",
+"UpdatePrefixUri": "https://raw.githubusercontent.com/zweiluan/ddzClientAB/master/AB/Android",
  "VersionListLength": 1228,
  "VersionListHashCode": 276767885,
  "VersionListCompressedLength": 621,
